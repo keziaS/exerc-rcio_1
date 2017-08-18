@@ -1,0 +1,36 @@
+<html>
+<body>
+
+<form>
+  Nome:<br>
+  <input type="text" name="Nome">
+  <br>
+  <br>
+  Cor favorita:
+  <input type="color" name="favcolor">
+  <br>
+  <br>
+  Data de nascimento:<br>
+  <input type="date" name="data">
+  <br>
+  <br>
+  Hora de nascimento:<br>
+  <input type="time" name="hora">
+  <br>
+  <br>
+  Email:<br>
+  <input time="email" name="email">
+  <br>
+  <br>
+  Conhecimento HTML:
+  <input type="range" name="points" min="o" max="100">
+  <br>
+  <br>
+  CSS:
+  <input type="range" name="points" min="o" max="100"><br><br>
+  <input type="submit" value="Enviar"><br>
+  <br>
+   <input type="reset" value="Reset">
+ </form>
+ </body>
+ </html>
